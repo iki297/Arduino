@@ -1,3 +1,5 @@
+///By Rizky Rahmatullah/////
+///Channel YT : https://www.youtube.com/channel/UCWMOPvAoXK8wpMlHVDjYobQ ///
 #include <SPI.h>
 #include <MFRC522.h>
 #define SDA 10
